@@ -1,0 +1,4 @@
+ ; Ctrl+j will type out "My First Script" or whatevers behind the Send, command
+^j::
+Send, My First Script
+return
